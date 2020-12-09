@@ -1,4 +1,4 @@
-### Algorithms, algorithms, and more algorithms!
+### Algorithms, algorithms, and more algorithms! ⚡
 [linkedin.com/in/aditya-garga](linkedin.com/in/aditya-garga)
 [https://www.kaggle.com/adigarga](https://www.kaggle.com/adigarga)
 [adityagarga.github.io](adityagarga.github.io)
