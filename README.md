@@ -1,7 +1,7 @@
 ### Algorithms, algorithms, and more algorithms! ⚡
-[linkedin.com/in/aditya-garga](linkedin.com/in/aditya-garga)
-[https://www.kaggle.com/adigarga](https://www.kaggle.com/adigarga)
-[adityagarga.github.io](adityagarga.github.io)
+[linkedin.com/in/aditya-garga](https://linkedin.com/in/aditya-garga)
+[www.kaggle.com/adigarga](https://www.kaggle.com/adigarga)
+[adityagarga.github.io](https://adityagarga.github.io)
 
 <!--
 **adityagarga/adityagarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
