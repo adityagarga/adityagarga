@@ -7,7 +7,7 @@ I want to document my learning process through my Github profile. I will be work
 -	Big **data** / cloud engineering (GCP, AWS, Azure, Docker, Kubernetes)
 
 
-[linkedin.com/in/aditya-garga](https://linkedin.com/in/aditya-garga)
+Connect with me on [LinkedIn](https://linkedin.com/in/aditya-garga)!
 
-[adityagarga.github.io](https://adityagarga.github.io)
+My personal [web portfolio](https://adityagarga.github.io) (It's a work in progress..)
 
