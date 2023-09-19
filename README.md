@@ -1,4 +1,4 @@
-###Full-Stack Engineer ⚡
+### Full-Stack Engineer ⚡
 I am currently working as an Full-Stack Engineer. I am passionate about Web Development, Machine Learning and Music. 
 
 I want to document my learning process through my Github profile. I will be working on projects to build my skills and competencies in these key areas: 
