@@ -1,5 +1,5 @@
-### Algorithms, algorithms, and more algorithms! ⚡
-I am currently working as an Algorithm Developement Engineer. I am passionate about Signal Processing, Machine Learning, Coding and Music. 
+###Full-Stack Engineer ⚡
+I am currently working as an Full-Stack Engineer. I am passionate about Web Development, Machine Learning and Music. 
 
 I want to document my learning process through my Github profile. I will be working on projects to build my skills and competencies in these key areas: 
 -	Applied **machine learning** on a larger scale (Tensorflow, Pytorch, Scikit-Learn)
